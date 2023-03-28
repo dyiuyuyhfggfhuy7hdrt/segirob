@@ -1,0 +1,43 @@
+.logo{
+	text-align:center;
+}
+h1{
+	background: black;
+}
+
+.white{
+	color:white;
+}
+
+h2{
+	font-size: 30px; 
+}
+h2{
+	background: yellow;
+}
+
+a:visited{
+	color:yellow;
+}	
+
+}
+.white{
+	color:white;
+}
+.orange{
+	color:orange;
+}
+.jd{
+	position:relative;
+	left:800px;
+}
+table { 
+    border-collapse:collapse;
+    font-family: arial;
+}
+body {
+    background-color: #000000;
+}
+.verde{
+	color:green;
+}
